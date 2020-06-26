@@ -1,0 +1,7 @@
+#Ommit the following directories
+.vs/
+bin/
+bin-int/
+
+#Ommit the following files
+*.user
